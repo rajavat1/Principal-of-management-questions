@@ -3,7 +3,7 @@ Based on the content of the provided document on "Principles of Management," her
 
 
 
-### MODULE 2
+# MODULE 2
 
 ## **Short Answer Questions**
 
