@@ -3,9 +3,9 @@ Based on the content of the provided document on "Principles of Management," her
 
 
 
-#MODULE 2
+### MODULE 2
 
-### **Short Answer Questions**
+## **Short Answer Questions**
 
 1. **What are the characteristics of management principles?**  
    *Answer:* The characteristics of management principles include:
